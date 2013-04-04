@@ -1,4 +1,4 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
+﻿#LyX 2.0 created this file. For more info see http://www.lyx.org/
 \lyxformat 413
 \begin_document
 \begin_header
@@ -61,7 +61,29 @@
 \begin_body
 
 \begin_layout Title
-Tax on Unhealthy Foods in Denmark
+Tax on Unhealthy Foods
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+normalsize
+\end_layout
+
+\end_inset
+
+ Tax on foods containing high amounts of saturated fats in Denmark from
+ 2009 to 2012
 \end_layout
 
 \begin_layout Author
@@ -87,6 +109,98 @@ LatexCommand tableofcontents
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+The issue of a tax on unhealthy foods plays into a broader debate of how
+ policy can contribute to promote healthy eating and thus to increased public
+ health meaning lower expenditures for public health services and higher
+ productivity in the labour market.
+\end_layout
+
+\begin_layout Standard
+This paper will look at the introduction of a tax on food containing high
+ amounts of saturated fat in Denmark in 2009.
+\end_layout
+
+\begin_layout Standard
+There are several ways to define unhealthy foods and, given that the ultimate
+ purpose is improvement of public health, several intermediate objectives
+ depending on the context.
+ In Denmark the main concern was to reduce cancer and cardiovascular diseases,
+ while the concern in the UK and US mainly relate to obesity.
+ These two health concerns are undoubtedly intertwined, but for clarification
+ purposes it is useful to keep the distinction in mind.
+ The policy response also differs.
+ Some talk about a tax on sugary soft drinks, while others, as in this paper,
+ talk about a tax on saturated fat.
+ 
+\end_layout
+
+\begin_layout Standard
+Furthermore, to avoid confusion on the matter 
+\begin_inset CommandInset citation
+LatexCommand citet
+after "p. 1244"
+key "caraher2005taxingfood"
+
+\end_inset
+
+ suggest that the terms 'food tax' and 'fat tax' be properly distinguished.
+ A 'food tax' is thus understood as any surcharge on food, while a 'fat
+ tax' is more limited in scope to specific foods containing high amounts
+ of saturated fats.
+ A tax on sugary soft drinks, which in this paper is used for comparison
+ purposes falls under the broader category of a food tax.
+\end_layout
+
+\begin_layout Standard
+Another terminological clarification concerns the use of 'negative externality',
+ which is used interchangably with 'diseconomies'.
+ In the case of a tax on unhealthy foods the individual consumer in optimising
+ own consumption fails to take into account, i.e.
+ internalise, the full social cost of his or her consumption, which is increased
+ health costs and fall in labour productivity.
+ This failure to internalise the externalities implies suboptimal resource
+ allocation, which can be improved by government intervention.
+ Thus, from an economic point of view addressing public health risks such
+ as obesity makes sense, because obesity has implications for health costs
+ and labour market productivity 
+\begin_inset CommandInset citation
+LatexCommand citep
+after "pp. 6-7"
+key "leicester2004thefat"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+The market failure might arise because consumers systematically underestimate
+ the negative effects the consumption of foods containing high amounts of
+ saturated fats can have in the long-run.
+ In this sense it is a problem of imperfect information as consumers do
+ not have full information about the detrimental effects of consuming unhealthy
+ foods 
+\begin_inset CommandInset citation
+LatexCommand citet
+after "p. 145"
+key "preventioncommission2009vikan"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Another reason according to which a tax should be judged is according to
+ the change in total welfare...
+ Look at other criteria according to which a tax should be judged.
 \end_layout
 
 \begin_layout Section
@@ -170,7 +284,8 @@ en
 ) in 2009 according to whose calculations a tax on saturated fats of around
  €2.7 (DKK20) per kg would reduce the aggregate consumption of saturated
  fat with around three percent and thus prolonging the average life expectancy
- of newly born Dane with 0.003 years or a litte more than one day (0.003*365=1.095).
+ of newly born Dane with 0.003 years or a little more than one day (0.003*365=1.095
+).
  In aggregated terms, the Prevention Commission estimated that the three
  procent reduction would add 3,800 years over the next ten years to the
  total living age of the Danish population 
@@ -438,8 +553,8 @@ In the presence of consumption externalities a natural first response to
  by levying corrective surcharges above the marginal production cost, which
  is what the Danish tax on unhealthy food can be seen as an example of.
  Moreover, the tax in question does not vary according to the externalities
- from consuming unhealthy foods, so the it is a uniform corrective surcharge.
- For some people it is proportionately more unhealthy to consume fatty and
+ from consuming unhealthy foods, so it is a uniform corrective surcharge.
+ For some people it is proportionally more unhealthy to consume fatty and
  sugary foods, but it is for practical reasons not possible to take these
  individual characteristic into account when taxing unhealthy food.
  This effect was in fact already anticipated by the Danish Prevention Commission
@@ -490,10 +605,14 @@ key "diamond1973consumption"
  the price rise.
  In this case the weights given are both positive and negative and might
  thus not correspond to the externalities.
- In the example of the tax on unhealthy foods, it is highly unlikely that
- the demands for health services will increase if less unhealthy food is
- eaten, although if consumption is shifted to other unhealthy foods that
- are not sugary or fatty, this could be the case.
+ 
+\end_layout
+
+\begin_layout Standard
+In the example of the tax on unhealthy foods, it could be argued that the
+ demands for health services will increase if less unhealthy food is eaten,
+ although if consumption is shifted to other unhealthy foods that are not
+ sugary or fatty, this could be the case.
  Indeed, 
 \begin_inset CommandInset citation
 LatexCommand citet
@@ -528,7 +647,7 @@ target "http://videnskab.dk/krop-sundhed/fedtskat-undermineret-af-ny-forskning"
 
  Taxing one type of unhealthy food such as those containing saturated fats
  to improve public health works only to the extent that people do not simply
- substitute their consumption to complementary goods that are equally unhealthy.
+ substitute their consumption to goods that are equally unhealthy.
  Elsewhere it has been argued that the problem is excessive calory intake
  
 \emph on
@@ -572,8 +691,27 @@ The argument above relies on the assumption that the demand for health services
  foods.
  In fact, Diamond (1973) investigates the case where the externalities generated
  affects the demand for the good itself.
- The question then is whether people with poorer health eat less foods containin
-g saturated fat.
+ The question then is whether the demand for foods containing saturated
+ fat varies with negative externalities generated by consuming such goods.
+ The answer is most probably positive, as it is likely that the demand would
+ decrease with the diseconomies as people with poorer health eat less fatty
+ foods.
+ In either case, the demand is probably not affected by the demand by others.
+\end_layout
+
+\begin_layout Standard
+The model put forth by Diamond does not take into account the effect already
+ mentioned that a tax on one type of unhealthy food might simply move consumptio
+n to another type of unhealthy food with the same type of externalities
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+after "p. 26"
+key "sondergaard2011optimal"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -679,7 +817,10 @@ target "http://articles.chicagotribune.com/2011-07-06/health/ct-x-0706-soda-tax-
 
 \end_inset
 
-
+ Going back to the concepts deployed by Diamond, the separability assumption
+ thus holds in this example, because the negative externalities of consuming
+ soft drinks affect the demand for soft drinks in the sense that there is
+ evidence that obese people shift their consumption to diet coke.
 \end_layout
 
 \begin_layout Standard
@@ -691,12 +832,6 @@ A tax on unhealthy foods can be seen as a Pigouvian tax as it aims to discourage
 \end_layout
 
 \begin_layout Standard
-The issue of a tax on unhealthy foods plays into a broader debate of how
- policy can contribute to promote healthy eating.
- 
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset citation
 LatexCommand citet
 after "p. 1244"
@@ -704,19 +839,7 @@ key "caraher2005taxingfood"
 
 \end_inset
 
- suggest that the terms 'food tax' and 'fat tax' be properly distinguished.
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand citet
-after "p. 1244"
-key "caraher2005taxingfood"
-
-\end_inset
-
- identify four ways that a food tax was imposed:
+ identify four ways in which a food tax has been imposed:
 \end_layout
 
 \begin_layout Quote
@@ -808,7 +931,6 @@ key "danishgovernment2009forrarspakke"
 .
  In other countries the main argument for introducing such a tax has been
  to limit the problems relating to obesity.
- This implies that ...
 \end_layout
 
 \begin_layout Standard
@@ -871,21 +993,202 @@ target "http://business.time.com/2011/10/05/denmark-levies-first-ever-fat-tax-sh
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Standard
-From an economic point of view addressing public health risks such as obesity
- makes sense, because obesity has implications for health costs and labour
- market productivity 
+There are indications that a tax on unhealthy food is regressive 
 \begin_inset CommandInset citation
 LatexCommand citep
-after "pp. 6-7"
-key "leicester2004thefattax"
+after "p. 16"
+key "leicester2004thefat"
 
 \end_inset
 
 .
+ Kaplow 
+\begin_inset CommandInset citation
+LatexCommand citeyearpar
+key "kaplow2011thetheory"
+
+\end_inset
+
+, however, argues that consumption taxes should not take into account redistribu
+tive questions as this is better dealt with by labour income taxes 
+\begin_inset CommandInset citation
+LatexCommand citep
+after "p. 7"
+key "sondergaard2011optimal"
+
+\end_inset
+
+.
+ Specifically, Kaplow 
+\begin_inset CommandInset citation
+LatexCommand citeyearpar
+after "p. 17"
+key "kaplow2011thetheory"
+
+\end_inset
+
+ argues it is difficult to ascertain whether a specific tax is increasing
+ or decreasing redistribution, because the notional amounts might be decreasing
+ redistribution, while the proportional amount might be increasing redistributio
+n.
+ One must look at the the revenues of the tax will be spent to understand
+ whether the full implications of the tax levy is regressive, progressive
+ or neutral.
+ In the Danish case, the imposition of the fat tax was introduced as part
+ of a tax reform that had the two main aims of lowering labour income tax
+ and increasing taxes on goods that are harmful to the environment and health
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+after "p. 3"
+key "danishgovernment2009forrarspakke"
+
+\end_inset
+
+.
+ Lowering labour income tax...
+ In the perspective of Kaplow, it then could be argued 
+\end_layout
+
+\begin_layout Standard
+Price elasticities of the demand of the taxed good are important in order
+ to understand the effects of the imposition of a tax.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "wegge2002oversigt"
+
+\end_inset
+
+ finds that the elasticities for dairy products lie in the interval -1.3
+ to -0.2 
+\begin_inset CommandInset citation
+LatexCommand citep
+after "p. 146"
+key "forebyggelseskommissionen2009vikan"
+
+\end_inset
+
+.
+ This implies that imposing a tax of DKK20 would decrease the consumption
+ of saturated fats somewhere in the interval 1.5% and 5.9% according to the
+ calculations of the Prevention Commission 
+\begin_inset CommandInset citation
+LatexCommand citeyearpar
+after "p. 148"
+key "forebyggelseskommissionen2009vikan"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Although the imposition of a fat tax might have allocative efficiency enhancing
+ outcomes, the evidence from Denmark suggests that it also imposes considerable
+ administrative costs.
+ Determining whether these costs outweigh the benefits is crucial in understandi
+ng the total effects of fat taxes.
+\end_layout
+
+\begin_layout Standard
+The administrative burden arises from the requirement that companies selling
+ products containing high amounts of saturated fats have to collect the
+ tax through higher prices and then pass on the tax to the tax authorities.
+\end_layout
+
+\begin_layout Standard
+The Prevention Commission assumed that a 1% increase in the proportion of
+ the daily energy intake that comes from saturated fats increases the risk
+ for cardiovascular disease with 3% 
+\begin_inset CommandInset citation
+LatexCommand citep
+after "p. 149"
+key "forebyggelseskommissionen2009vikan"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Apart from the negative externalities that the consumption of fatty foods
+ may entail, 
+\begin_inset CommandInset citation
+LatexCommand citep
+after "p. 1"
+key "odonoghue2006optimal"
+
+\end_inset
+
+ point to the problem of over-consumption by replacing the standard assumption
+ of full self-control with an assumption that some consumers may lack perfect
+ self-control in the consumption of certain goods.
+ In a society without self-control problems a tax on fatty foods would simply
+ be distortionary to the otherwise optimal consumption of these products.
+ They demonstrate that even in the case of little lack of self-control the
+ optimal 'sin' tax is quite large.
+ Moreover, they use the concept of a 'sin good' 
+\begin_inset Quotes eld
+\end_inset
+
+that is enjoyable to consume but creates negative health consequences in
+ the future.
+\begin_inset Quotes erd
+\end_inset
+
+ One of the results that they derive is that current consumption has negative
+ externalities for the future self, which has been named a 'negative internality
+' by 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "herrnstein1993utility"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+The first-best solution to the negative internality problem is to impose
+ taxes proportional to the degree of self-control problems 
+\begin_inset CommandInset citation
+LatexCommand citep
+after "p. 2"
+key "odonoghue2006optimal"
+
+\end_inset
+
+, but this is not possible so the remaining solution is to impose a uniform,
+ linear tax for all consumers.
+\end_layout
+
+\begin_layout Standard
+Diamond (1973) analyses uniform taxation to correct non-uniform externalities
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+after "p. 2"
+key "odonoghue2006optimal"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+The taxes discussed in the US relate to the size of sugary soft drinks,
+ which is arguably linked to obesity, while the Danish tax is on saturated
+ relying on the assumption that this is linked to cancer and cardiovascular
+ diseases.
+ Both of these two assumptions, i.e.
+ correlation between size of soft drinks and obesity as well as a correlation
+ between intake of saturated fats and cardiovascular diseases have however
+ been called into question.
 \end_layout
 
 \begin_layout Section

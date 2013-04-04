@@ -1,6 +1,91 @@
-﻿ 0_IVA5R9ST 0_RXGS7U4G 0_FR8TPSXI 0_5AMSSU8H 0_2BWB5WNU 0_XD344NKS 0_35W2X6GG 0_83V3WNSU 0_N5CQQSWJ
+﻿0_2BWB5WNU 0_35W2X6GG 0_4WP2CQ89 0_5AMSSU8H 0_83V3WNSU 0_BVS7RH3K 0_FR8TPSXI 0_I7NUAH4E 0_IVA5R9ST 0_N5CQQSWJ 0_R9F58W6V 0_RXGS7U4G 0_TEBBTQVZ 0_XD344NKS
 
-
+@techreport{baekmark2012fedtog,
+	type = {Master Thesis},
+	title = {Fedt- og sukkerafgifter {\textendash} som {\o}konomisk instrument},
+	url = {http://pure.au.dk/portal-asb-student/files/45449195/HD_1._del_projekt_fedt_og_sukkerafgifter_Kopi.docx},
+	language = {Danish},
+	institution = {Aarhus University},
+	author = {B{\ae}kmark, Christian},
+	month = may,
+	year = {2012},
+	file = {.pdf:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/AA5IUZIE/.pdf:application/pdf}
+}
+@article{diamond1973consumption,
+	title = {Consumption externalities and imperfect corrective pricing},
+	url = {http://www.jstor.org/stable/10.2307/3003052},
+	urldate = {2013-03-24},
+	journal = {The Bell Journal of Economics and Management Science},
+	author = {Diamond, Peter A.},
+	year = {1973},
+	pages = {526{\textendash}538},
+	file = {Diamond_1973_Consumption externalities and imperfect corrective pricing.pdf:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/2D4KQBHI/Diamond_1973_Consumption externalities and imperfect corrective pricing.pdf:application/pdf}
+}
+@book{wegge2002oversigt,
+	title = {Oversigt over eksisterende empiriske studier af f{\o}devareeftersp{\o}rgslen},
+	publisher = {F{\o}devare{\o}konomisk Institut},
+	author = {Wegge, Martin and Jensen, J{\o}rgen Dejgaard},
+	year = {2002},
+	file = {12.pdf.pdf:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/FXUM5UJ3/12.pdf.pdf:application/pdf}
+}
+@misc{danishgovernment2009forrarspakke,
+	title = {For{\r a}rspakke 2.0 - V{\ae}kst, klima, lavere skat},
+	url = {http://www.stm.dk/publikationer/foraarspakke/index.htm},
+	author = {Danish Government, the},
+	month = feb,
+	year = {2009},
+	file = {For{\r a}rspakke 2.pdf:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/J869GTI7/For{\r a}rspakke 2.pdf:application/pdf}
+}
+@techreport{forebyggelseskommissionen2009vikan,
+	type = {Forebyggelseskommissionens anbefalinger til en styrket forebyggende indsats},
+	title = {Vi kan leve l{\ae}ngere og sundere},
+	url = {http://www.sum.dk/Aktuelt/Publikationer/~/media/Filer%20-%20dokumenter/forebygkom/Forebyggelseskommissionen_resume.ashx},
+	institution = {Ministeriet for Sundhed og Forebyggelse},
+	author = {{Forebyggelseskommissionen}},
+	month = apr,
+	year = {2009},
+	file = {Vi kan leve l{\ae}ngere og sundere.pdf:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/C6U7CETR/Vi kan leve l{\ae}ngere og sundere.pdf:application/pdf}
+}
+@article{odonoghue2006optimal,
+	title = {Optimal sin taxes},
+	volume = {90},
+	url = {http://www.sciencedirect.com/science/article/pii/S0047272706000247},
+	number = {10},
+	urldate = {2013-03-27},
+	journal = {Journal of Public Economics},
+	author = {{O'Donoghue}, Ted and Rabin, Matthew},
+	year = {2006},
+	pages = {1825{\textendash}1849},
+	file = {[PDF] from cornell.edu:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/I4KUNQ7K/O'Donoghue and Rabin - 2006 - Optimal sin taxes.pdf:application/pdf;Snapshot:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/WZHDIGJE/S0047272706000247.html:text/html}
+}
+@article{caraher2005taxingfood,
+	title = {Taxing food: implications for public health nutrition},
+	volume = {8},
+	shorttitle = {Taxing food},
+	url = {http://journals.cambridge.org/abstract_s1368980005001497},
+	number = {08},
+	urldate = {2013-03-10},
+	journal = {Public Health Nutrition},
+	author = {Caraher, Martin and Cowburn, Gill},
+	year = {2005},
+	pages = {1242{\textendash}1249},
+	file = {[PDF] from cepiec.com.cn:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/FUSGX3AI/Caraher and Cowburn - 2005 - Taxing food implications for public health nutrit.pdf:application/pdf;Snapshot:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/NDXVZQUA/displayAbstract.html:text/html}
+}
+@article{musgrave1939thevoluntary,
+	title = {The Voluntary Exchange Theory of Public Economy},
+	volume = {53},
+	issn = {00335533},
+	lccn = {8554010},
+	abstract = {The article presents information on voluntary exchange theory of public economy. It is argued that the objective of the theory of public finance was to explain the terms of rational economic action, the determination of the total volume of public expenditure items and the distribution of tax shares in different taxpayers. Less public expenditure results in smaller taxes and reduced private spending. Taxes appear as voluntary payments rendered by the individual in exchange for services supplied by public economy. The voluntary theory however is frequently criticized because of its underlying premises.},
+	number = {2},
+	journal = {Quarterly Journal of Economics},
+	author = {Musgrave, Richard Abel},
+	month = feb,
+	year = {1939},
+	keywords = {{CUSTOMER} services, {GOVERNMENT} lending, {PUBLIC} finance, {PUBLIC} spending, {SAVING} \& investment, {TAX} expenditures, {TAXATION}, {TAXATION} -- Law \& legislation, {WEALTH}},
+	pages = {213--237},
+	file = {EBSCO Full Text:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/CDRNATTZ/Musgrave - 1939 - The Voluntary Exchange Theory of Public Economy.pdf:application/pdf}
+}
 @misc{hoffmann2011fedtskat,
 	title = {Fedtskat undermineret af ny forskning},
 	url = {http://videnskab.dk/krop-sundhed/fedtskat-undermineret-af-ny-forskning},
@@ -12,7 +97,27 @@
 	howpublished = {http://videnskab.dk/krop-sundhed/fedtskat-undermineret-af-ny-forskning},
 	file = {Fedtskat undermineret af ny forskning | Videnskab.dk:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/GRXJTPQK/fedtskat-undermineret-af-ny-forskning.html:text/html}
 }
-
+@techreport{leicester2004thefat,
+	type = {Briefing Note},
+	title = {The 'fat tax': economic incentives to reduce obesity},
+	shorttitle = {The'fat tax'},
+	url = {http://eprints.ucl.ac.uk/14931},
+	number = {49},
+	urldate = {2013-03-26},
+	institution = {The Institute for Fiscal Studies},
+	author = {Leicester, Andrew and Windmeijer, Frank},
+	year = {2004},
+	file = {Leicester_Windmeijer_2004_The'fat tax'.pdf:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/36TIGJHP/Leicester_Windmeijer_2004_The'fat tax'.pdf:application/pdf;Snapshot:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/WHDV36WW/14931.html:text/html}
+}
+@book{kaplow2011thetheory,
+	title = {The theory of taxation and public economics},
+	url = {http://books.google.com/books?hl=en&lr=&id=ZKyzIxThyoAC&oi=fnd&pg=PP2&dq=theory+of+taxation+and+public+economics&ots=WyFcQI4V4j&sig=W8OhoxuBzK-hYdPXgbBCY-JMq2g},
+	urldate = {2013-03-27},
+	publisher = {Princeton University Press},
+	author = {Kaplow, Louis},
+	year = {2011},
+	file = {[PDF] from nellco.org:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/FGVKEA7H/Kaplow - 2011 - The theory of taxation and public economics.pdf:application/pdf;Snapshot:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/8XQMVEUW/books.html:text/html}
+}
 @article{astrup2011therole,
 	title = {The role of reducing intakes of saturated fat in the prevention of cardiovascular disease: where does the evidence stand in 2010?},
 	volume = {93},
@@ -29,41 +134,16 @@
 	pages = {684--688},
 	file = {Fedtskat undermineret af ny forskning | Videnskab.dk:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/EE5TTAT4/fedtskat-undermineret-af-ny-forskning.html:text/html}
 }
-
-@article{caraher2005taxingfood,
-	title = {Taxing food: implications for public health nutrition},
-	volume = {8},
-	shorttitle = {Taxing food},
-	url = {http://journals.cambridge.org/abstract_s1368980005001497},
-	number = {08},
-	urldate = {2013-03-10},
-	journal = {Public Health Nutrition},
-	author = {Caraher, Martin and Cowburn, Gill},
-	year = {2005},
-	pages = {1242{\textendash}1249},
-	file = {[PDF] from cepiec.com.cn:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/FUSGX3AI/Caraher and Cowburn - 2005 - Taxing food implications for public health nutrit.pdf:application/pdf;Snapshot:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/NDXVZQUA/displayAbstract.html:text/html}
+@techreport{sondergaard2011optimal,
+	type = {Master Thesis},
+	title = {Optimal beskatning af m{\ae}ttet fedt},
+	url = {https://diskurs.kb.dk/faces/viewItemFullPage.jsp?itemId=diskurs:12990:1},
+	institution = {Department of Economics, University of Copenhagen},
+	author = {S{\o}ndergaard, Maria},
+	month = aug,
+	year = {2011},
+	file = {Maria S{\o}ndergaard_2011_Optimal beskatning af m{\ae}ttet fedt.pdf:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/XVK5CV7W/Maria S{\o}ndergaard_2011_Optimal beskatning af m{\ae}ttet fedt.pdf:application/pdf}
 }
-
-@misc{danishgovernment2009forrarspakke,
-	title = {For{\r a}rspakke 2.0 - V{\ae}kst, klima, lavere skat},
-	url = {http://www.stm.dk/publikationer/foraarspakke/index.htm},
-	author = {{Danish Government}},
-	month = feb,
-	year = {2009},
-	file = {For{\r a}rspakke 2.pdf:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/J869GTI7/For{\r a}rspakke 2.pdf:application/pdf}
-}
-
-@phdthesis{baekmark2012fedtog,
-	title = {Fedt- og sukkerafgifter {\textendash} som {\o}konomisk instrument},
-	url = {http://pure.au.dk/portal-asb-student/files/45449195/HD_1._del_projekt_fedt_og_sukkerafgifter_Kopi.docx},
-	language = {Danish},
-	school = {Aarhus University},
-	author = {B{\ae}kmark, Christian},
-	month = may,
-	year = {2012},
-	file = {.pdf:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/AA5IUZIE/.pdf:application/pdf}
-}
-
 @article{sacks2011textquotelefttrafficlighttextquoteright,
 	title = {{{\textquoteleft}Traffic-light{\textquoteright}} nutrition labelling and {\textquoteleft}junk-food{\textquoteright} tax: a modelled comparison of cost-effectiveness for obesity prevention},
 	volume = {35},
@@ -85,35 +165,4 @@ Conclusion: Policy-based population-wide interventions such as traffic-light nut
 	keywords = {cost-effectiveness, food taxes, nutrition labelling, obesity prevention},
 	pages = {1001--1009},
 	file = {Full Text PDF:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/KIF8TPS5/Sacks et al. - 2011 - {\textquoteleft}Traffic-light{\textquoteright} nutrition labelling and {\textquoteleft}junk-food.pdf:application/pdf;Snapshot:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/C3GM7S6M/ijo2010228a.html:text/html}
-}
-
-@article{diamond1973consumption,
-	title = {Consumption externalities and imperfect corrective pricing},
-	url = {http://www.jstor.org/stable/10.2307/3003052},
-	urldate = {2013-03-24},
-	journal = {The Bell Journal of Economics and Management Science},
-	author = {Diamond, Peter A.},
-	year = {1973},
-	pages = {526{\textendash}538},
-	file = {Diamond_1973_Consumption externalities and imperfect corrective pricing.pdf:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/H6MNWJAN/Diamond_1973_Consumption externalities and imperfect corrective pricing.pdf:application/pdf}
-}
-
-@misc{forebyggelseskommissionen2009vikan,
-	title = {Vi kan leve l{\ae}ngere og sundere},
-	url = {http://www.sum.dk/Aktuelt/Publikationer/~/media/Filer%20-%20dokumenter/forebygkom/Forebyggelseskommissionen_resume.ashx},
-	publisher = {Ministeriet for Sundhed og Forebyggelse},
-	author = {{Forebyggelseskommissionen}},
-	month = apr,
-	year = {2009},
-	file = {Vi kan leve l{\ae}ngere og sundere.pdf:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/C6U7CETR/Vi kan leve l{\ae}ngere og sundere.pdf:application/pdf}
-}
-
-@article{leicester2004thefattax,
-	title = {The'fat tax': economic incentives to reduce obesity},
-	shorttitle = {The'fat tax'},
-	url = {http://eprints.ucl.ac.uk/14931},
-	urldate = {2013-03-26},
-	author = {Leicester, Andrew and Windmeijer, Frank},
-	year = {2004},
-	file = {Leicester_Windmeijer_2004_The'fat tax'.pdf:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/36TIGJHP/Leicester_Windmeijer_2004_The'fat tax'.pdf:application/pdf;Snapshot:/Users/vrangbaek/Library/Application Support/Firefox/Profiles/n41akpa5.default/zotero/storage/WHDV36WW/14931.html:text/html}
 }
