@@ -1,4 +1,4 @@
-﻿#LyX 2.0 created this file. For more info see http://www.lyx.org/
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
 \lyxformat 413
 \begin_document
 \begin_header
@@ -188,19 +188,24 @@ The market failure might arise because consumers systematically underestimate
  not have full information about the detrimental effects of consuming unhealthy
  foods 
 \begin_inset CommandInset citation
-LatexCommand citet
+LatexCommand citep
 after "p. 145"
-key "preventioncommission2009vikan"
+key "forebyggelseskommissionen2009vikan"
 
 \end_inset
 
 .
-\end_layout
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+after "p. 150"
+key "herrnstein1993utility"
 
-\begin_layout Standard
-Another reason according to which a tax should be judged is according to
- the change in total welfare...
- Look at other criteria according to which a tax should be judged.
+\end_inset
+
+ has identified this phenomenon as 'melioration' and defined it as the choosing
+ of that alternative that yields the highest utility presently without taking
+ into account the effect on future yields.
 \end_layout
 
 \begin_layout Section
@@ -246,9 +251,10 @@ key "baekmark2012fedtog"
 
 \end_inset
 
-, but before taking effect some argued that the proposed tax was precluded
- under EU law, because it would function as an entry barrier for goods and
- products produced in other EU member states.
+, but even before taking effect it met its first objections as some argued
+ that the proposed tax was precluded under EU law, because it would function
+ as an entry barrier for goods and products produced in other EU member
+ states.
 \begin_inset Foot
 status collapsed
 
@@ -297,6 +303,26 @@ key "forebyggelseskommissionen2009vikan"
 \end_inset
 
 .
+ Eventually, the tax was put at DKK16 per kg and exempted food with a content
+ of saturated fats below 2.3%.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+SKAT, ‘Ny afgift på mættet fedt i fødevarer’, 15 April 2011, 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://www.skat.dk/SKAT.aspx?oId=1942614&vId=0"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -382,9 +408,9 @@ target "http://politiken.dk/tjek/tjekmad/produktion/ECE1138890/slagtere-frygter-
 
  For smaller, independent butcheries this could be tantamount to administrative
  asphyxiation, risking to force them to close.
- In addition, the association for slaughter houses sued the Danish government
- claiming that the tax would be inimical to the Danish food sector and employmen
-t in general.
+ The association for slaughter houses even took the Danish government claiming
+ that the tax would be inimical to the Danish food sector and employment
+ in general.
 \begin_inset Foot
 status collapsed
 
@@ -407,9 +433,10 @@ target "http://www.dr.dk/Nyheder/Indland/2011/12/20/160828.htm"
 \end_layout
 
 \begin_layout Standard
-The most serious criticism was however that the tax was socially skewed
- in the sense that people with lower income was hit proportionally higher
- by the tax than higher income individuals.
+But producers were not the only group criticising the new tax.
+ It was also argued the tax was socially skewed in the sense that people
+ with lower income was hit proportionally higher by the tax than higher
+ income individuals.
  In particular, calculations made by the interest organisation for the agricultu
 ral and food industry in Denmark, the Danish Agricultural & Food Council,
  showed that single parents were proportionally harder hit by the tax than
@@ -440,8 +467,9 @@ target "http://tinyurl.com/foodculture12"
 \end_layout
 
 \begin_layout Standard
-The Danish Association of Doctors claimed that the tax was actually contributing
- to the improvement of national health.
+Nonetheless, the tax was not only met with resistance.
+ The Danish Association of Doctors claimed that the tax was actually contributin
+g to the improvement of national health.
 \begin_inset Foot
 status collapsed
 
@@ -477,8 +505,9 @@ target "http://www.dr.dk/Nyheder/Politik/2012/11/10/1110073643.htm"
 \end_layout
 
 \begin_layout Standard
-Internationally, the introduction of the tax was noted as well as it was
- the first tax on saturated fat ever to be introduced.
+Internationally, the introduction of the tax was noted as well, because
+ some countries, especially the UK, had public discussions on the topic
+ as obesity continues to be a serious threat to public health.
 \begin_inset Foot
 status collapsed
 
@@ -488,6 +517,47 @@ Katrine Jo Andersen, ‘Dansk fedtskat går verden rundt’, Politiken, 3 Octobe
 \begin_inset CommandInset href
 LatexCommand href
 target "http://politiken.dk/mad/madnyt/ECE1411775/dansk-fedtskat-gaar-verden-rundt/"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_inset
+
+ According to the National Obesity Forum in the UK, 70% of the British populatio
+n would be obese in 2050 if nothing is done to prevent it.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Alexandra Topping, ‘Body Blow for Butter-loving Danes as Fat Tax Kicks In’,
+ The Guardian, 2 October 2011, sec.
+ World news, 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://www.guardian.co.uk/world/2011/oct/02/denmark-fat-tax-obesity"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_inset
+
+ Other countries imposed similar taxes such as Hungary that put a tax on
+ foods with high fat, salt and sugar content.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Catherine Cheney, ‘Battling the Couch Potatoes: Hungary Introduces “Fat
+ Tax”’, Spiegel Online, 1 September 2011, 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://www.spiegel.de/international/europe/battling-the-couch-potatoes-hungary-introduces-fat-tax-a-783862.html"
 
 \end_inset
 
@@ -552,8 +622,13 @@ In the presence of consumption externalities a natural first response to
  He proceeds to mention that a Pareto optimal allocation can be achieved
  by levying corrective surcharges above the marginal production cost, which
  is what the Danish tax on unhealthy food can be seen as an example of.
- Moreover, the tax in question does not vary according to the externalities
- from consuming unhealthy foods, so it is a uniform corrective surcharge.
+ 
+\end_layout
+
+\begin_layout Standard
+Moreover, the tax in question does not vary according to the externalities
+ from consuming unhealthy foods, so it can be defined as a uniform corrective
+ surcharge.
  For some people it is proportionally more unhealthy to consume fatty and
  sugary foods, but it is for practical reasons not possible to take these
  individual characteristic into account when taxing unhealthy food.
@@ -581,7 +656,7 @@ key "diamond1973consumption"
 \end_inset
 
  writes that we cannot achieve Pareto optimality.
- It is, in other words, not possible to levy exactly the amount of tax that
+ It is, in other words, impossible to levy exactly the amount of tax that
  corresponds to the additional burden imposed on the health sector from
  consuming unhealthy foods for each and every individual.
  An obvious modification is to levy a weighted average of externalities,
@@ -624,9 +699,10 @@ key "astrup2011therole"
 \emph on
 per se
 \emph default
- whether saturated fats cause diseases and that reducing the intake of saturated
- fats only is effective if replaced with whole grain products or unsaturated
- fats from fish and plants.
+ whether saturated fats cause diseases.
+ Furthermore they concluded that reducing the intake of saturated fats only
+ is effective if replaced with whole grain products or unsaturated fats
+ from fish and plants.
 \begin_inset Foot
 status collapsed
 
@@ -735,8 +811,8 @@ target "http://healthland.time.com/2011/06/30/study-can-a-soda-tax-help-curb-obe
 
 \end_inset
 
- In Illinois in 2011, a bill was introduced that proposed to add a penny
- (€0.0078) per ounce (28.35 grams) to the cost of soft drinks.
+ In Illinois in 2011, a bill was introduced that proposed to add €0.0078
+ (a penny) per 28.35 grams (ounce) to the cost of soft drinks.
 \begin_inset Foot
 status collapsed
 
@@ -879,7 +955,7 @@ key "caraher2005taxingfood"
 \end_layout
 
 \begin_layout Standard
-It is clear that the Danish tax falls outside any of these categories.
+It can be argued that the Danish tax falls outside any of these categories.
  Its aim was to affect the consumption behaviour of the Danish population,
  so it would either fall under category three or four above, but because
  the revenue generated was not specifically earmarked for prevention activities,
@@ -929,13 +1005,13 @@ key "danishgovernment2009forrarspakke"
 \end_inset
 
 .
- In other countries the main argument for introducing such a tax has been
- to limit the problems relating to obesity.
+ As mentioned above, in other countries the main argument for introducing
+ such a tax has been to limit the problems relating to obesity.
 \end_layout
 
 \begin_layout Standard
-From a purely health policy perspective a tax on unhealthy foods seem to
- be effective.
+From a purely health policy perspective there is evidence that that a tax
+ on unhealthy foods is effective.
  
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -997,7 +1073,8 @@ target "http://business.time.com/2011/10/05/denmark-levies-first-ever-fat-tax-sh
 \end_layout
 
 \begin_layout Standard
-There are indications that a tax on unhealthy food is regressive 
+Indeed, there are indications that a tax on unhealthy food is regressive
+ 
 \begin_inset CommandInset citation
 LatexCommand citep
 after "p. 16"
@@ -1039,9 +1116,12 @@ n.
  whether the full implications of the tax levy is regressive, progressive
  or neutral.
  In the Danish case, the imposition of the fat tax was introduced as part
- of a tax reform that had the two main aims of lowering labour income tax
- and increasing taxes on goods that are harmful to the environment and health
- 
+ of a tax reform called 'Spring Package 2.0' (
+\emph on
+Forårspakke 2.0
+\emph default
+) that had the two main aims of lowering labour income tax and increasing
+ taxes on goods that are harmful to the environment and health 
 \begin_inset CommandInset citation
 LatexCommand citep
 after "p. 3"
@@ -1050,69 +1130,76 @@ key "danishgovernment2009forrarspakke"
 \end_inset
 
 .
- Lowering labour income tax...
- In the perspective of Kaplow, it then could be argued 
+ Analysis from the Economic Council of the Labour Movement estimated that
+ the distributional effects of this reform package was that most income
+ groups get their net incomes reduced, while only groups of the population
+ with highest income gain from the reforms.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Jonas Schytz Juul, ‘Regeringens kriseregning: Stigende skatter og velfærdstab
+ på 12 mia.
+ kr.’, Economic Council of the Danish Labour Movement, 31 August 2011, 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://ae.dk/analyse/regeringens-kriseregning-stigende-skatter-velfaerdstab-pa-12-mia-kr"
+
+\end_inset
+
+.
+ 
 \end_layout
 
-\begin_layout Standard
-Price elasticities of the demand of the taxed good are important in order
- to understand the effects of the imposition of a tax.
+\end_inset
+
+ This is partly because the reform lowered the top-tier labour income tax
+ rate from 63% to 56%.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Danish Chamber of Commerce, ‘Hovedpunkterne i VKO-skattereformen: Forårspakke
+ 2.0’, accessed 4 April 2013, 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.danskerhverv.dk/Politik/Skat/Skattekommission-skattereform/Sider/Skattekommission-Skattereform.aspx"
+
+\end_inset
+
+.
  
+\end_layout
+
+\end_inset
+
+ Thus, considering that the revenues from the tax on saturated fats is used
+ to finance a tax reform that eases the tax burdens of the highest echelons
+ of the income hierarchy, the tax on saturated fat can be argued to be regressiv
+e.
+ This conclusion is supported by 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "wegge2002oversigt"
+key "leicester2004thefat"
 
 \end_inset
 
- finds that the elasticities for dairy products lie in the interval -1.3
- to -0.2 
+ that looks at a fat tax 
+\emph on
+per se
+\emph default
+, as opposed to the holistic approach advocated by Kaplow (2011) mentioned
+ above.
+ They speculate based on the studies by 
 \begin_inset CommandInset citation
-LatexCommand citep
-after "p. 146"
-key "forebyggelseskommissionen2009vikan"
+LatexCommand cite
+key "blow2004consumption"
 
 \end_inset
 
-.
- This implies that imposing a tax of DKK20 would decrease the consumption
- of saturated fats somewhere in the interval 1.5% and 5.9% according to the
- calculations of the Prevention Commission 
-\begin_inset CommandInset citation
-LatexCommand citeyearpar
-after "p. 148"
-key "forebyggelseskommissionen2009vikan"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Although the imposition of a fat tax might have allocative efficiency enhancing
- outcomes, the evidence from Denmark suggests that it also imposes considerable
- administrative costs.
- Determining whether these costs outweigh the benefits is crucial in understandi
-ng the total effects of fat taxes.
-\end_layout
-
-\begin_layout Standard
-The administrative burden arises from the requirement that companies selling
- products containing high amounts of saturated fats have to collect the
- tax through higher prices and then pass on the tax to the tax authorities.
-\end_layout
-
-\begin_layout Standard
-The Prevention Commission assumed that a 1% increase in the proportion of
- the daily energy intake that comes from saturated fats increases the risk
- for cardiovascular disease with 3% 
-\begin_inset CommandInset citation
-LatexCommand citep
-after "p. 149"
-key "forebyggelseskommissionen2009vikan"
-
-\end_inset
-
-.
+ who have shown that alcohol and catering is not consumed evenly along the
+ income distribution curve, that this is also the case for fatty foods,
+ making the tax in essence regressive.
 \end_layout
 
 \begin_layout Standard
@@ -1185,10 +1272,122 @@ The taxes discussed in the US relate to the size of sugary soft drinks,
  which is arguably linked to obesity, while the Danish tax is on saturated
  relying on the assumption that this is linked to cancer and cardiovascular
  diseases.
+ The Prevention Commission assumed that a 1% increase in the proportion
+ of the daily energy intake that comes from saturated fats increases the
+ risk for cardiovascular disease with 3% 
+\begin_inset CommandInset citation
+LatexCommand citep
+after "p. 149"
+key "forebyggelseskommissionen2009vikan"
+
+\end_inset
+
+.
  Both of these two assumptions, i.e.
  correlation between size of soft drinks and obesity as well as a correlation
- between intake of saturated fats and cardiovascular diseases have however
+ between intake of saturated fats and cardiovascular diseases, have however
  been called into question.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Source?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Another reason according to which a tax should be judged is according to
+ the change in total welfare, the tax revenue, the loss of output and who
+ bears the main burden of the tax.
+ In the case of the tax on saturated fats, the tax is supposed to increase
+ total welfare.
+ Before the tax we had a market failure, where the competitive equilibrium
+ did not maximise total welfare.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand citet
+after "p. 567"
+key "perloff2011microeconomics"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ The social marginal cost of consumption was larger than the private marginal
+ cost of consumption, so more was consumed than the amount optimising social
+ welfare.
+ Regarding the tax revenue, the Prevention Commission estimated in 2009
+ that the revenue from imposing a DKK20 per kg would generate DKK0.9-1bn
+ (€120.7m-134.1m).
+ 
+\end_layout
+
+\begin_layout Standard
+Although the imposition of a fat tax might have allocative efficiency and
+ welfare enhancing outcomes, the evidence from Denmark suggests that it
+ also imposes considerable administrative costs on the suppliers.
+ Determining whether these costs outweigh the benefits is crucial in understandi
+ng the total effects of fat taxes, but difficult to ascertain in practice.
+ The administrative burden arises from the requirement that companies selling
+ products containing high amounts of saturated fats have to collect the
+ tax through higher prices and then pass on the tax to the tax authorities.
+\end_layout
+
+\begin_layout Standard
+Price elasticities of the demand of the taxed good are important in order
+ to understand the effects of the imposition of a tax.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "wegge2002oversigt"
+
+\end_inset
+
+ finds that the elasticities for dairy products lie in the interval -1.3
+ to -0.2 
+\begin_inset CommandInset citation
+LatexCommand citep
+after "p. 146"
+key "forebyggelseskommissionen2009vikan"
+
+\end_inset
+
+.
+ This implies that imposing a tax of DKK20 would decrease the consumption
+ of saturated fats somewhere in the interval 1.5% and 5.9% according to the
+ calculations of the Prevention Commission 
+\begin_inset CommandInset citation
+LatexCommand citeyearpar
+after "p. 148"
+key "forebyggelseskommissionen2009vikan"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Imposing a tax on foods containing high amounts of saturated fats may also
+ have the effect that producers reduce the amount of fat in their products
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "skatteministeriet2008skatteministeriets"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Section
