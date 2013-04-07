@@ -772,8 +772,13 @@ The argument above relies on the assumption that the demand for health services
  decrease with the diseconomies as people with poorer health eat less fatty
  foods.
  In either case, the demand is probably not affected by the demand by others,
- so the externalities are separable from the demand of all other consumers,
- although one could speculate that 
+ so the externalities are separable from the demand of all other consumers.
+ However, one could imagine a situation in which the individual demand for
+ unhealthy foods would increase if the aggregate demand for unhealthy food
+ was increased.
+ This could be the case if unhealthy foods become more readily available
+ or that the people in an individual's social circle increase their consumption
+ of unhealthy foods.
 \end_layout
 
 \begin_layout Standard
